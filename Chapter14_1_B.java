@@ -163,7 +163,7 @@ public class Chapter14_1_B extends Application {
         pane.getChildren().addAll(g1, g2, g3, g4, g5);
 
 
-        // Putting it the Scene in the Stage and showing the Stage
+        // Putting the Scene in the Stage and showing the Stage
         Scene scene = new Scene(pane, 500, 500);
         primaryStage.setTitle("Chapter 14, Problem 1, Part A");
 
